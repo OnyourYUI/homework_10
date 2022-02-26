@@ -55,7 +55,7 @@ class Test extends StatelessWidget {
         userpost: 'LO_VE SKY',
         comments:[Comments(user: 'YUI', comment: 'rainbow^^'),
           Comments(user: 'Gae_m', comment: ':)')],
-        caption: '<RAINBOW🌈>'),
+        caption: '<RAINBOW🌈> AND EVERY CLOUD HAS A SILVER LINING :)'),
   ];
 
 
